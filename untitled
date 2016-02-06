@@ -1,0 +1,16 @@
+
+setInterval(document.body.innerHTML = document.body.innerHTML.replace(/Donald Trump/g, 'Adolf Hitler'), 1);
+setInterval(document.body.innerHTML = document.body.innerHTML.replace(/Donald John Trump/g, 'Adolf Hitler'), 1);
+setInterval(document.body.innerHTML = document.body.innerHTML.replace(/Donald J Trump/g, 'Adolf Hitler'), 1);
+setInterval(document.body.innerHTML = document.body.innerHTML.replace(/Donald J. Trump/g, 'Adolf Hitler'), 1);
+setInterval(document.body.innerHTML = document.body.innerHTML.replace(/DonaldTrump/g, 'AdolfHitler'), 1);
+setInterval(document.body.innerHTML = document.body.innerHTML.replace(/DonaldJTrump/g, 'AdolfHitler'), 1);
+setInterval(document.body.innerHTML = document.body.innerHTML.replace(/donaldjtrump/g, 'berniesanders'), 1);
+setInterval(document.body.innerHTML = document.body.innerHTML.replace(/Trump/g, 'Hitler'), 1);
+setInterval(document.body.innerHTML = document.body.innerHTML.replace(/ trump/g, 'Hitler'), 1);
+setInterval(document.body.innerHTML = document.body.innerHTML.replace(/trump /g, 'Hitler'), 1);
+setInterval(document.body.innerHTML = document.body.innerHTML.replace(/trump/g, 'berniesanders'), 1);
+setInterval(document.body.innerHTML = document.body.innerHTML.replace(/the donald/g, 'Adolf Hitler'), 1);
+setInterval(document.body.innerHTML = document.body.innerHTML.replace(/the Donald/g, 'Adolf Hitler'), 1);
+setInterval(document.body.innerHTML = document.body.innerHTML.replace(/The Donald/g, 'Adolf Hitler'), 1);
+setInterval(document.body.innerHTML = document.body.innerHTML.replace(/the donald/g, 'Adolf Hitler'), 1);
