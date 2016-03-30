@@ -3,8 +3,16 @@
     "name": "Useless Idiot",
     "description": "Go to hell Donald",
     "version": "0.2",
-	"permissions": ["tabs", "*://*/*"],
-	"background": {
-		"page": "background.html"
-	}
+    "content_scripts": [
+        {
+            "matches": [
+                "http://*/*",
+                "https://*/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
 }
